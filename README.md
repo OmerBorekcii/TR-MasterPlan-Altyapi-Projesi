@@ -1,3 +1,5 @@
+🔴 LIVE DEMO: [[Linke Tıkla](https://tr-masterplan-altyapi-projesi.streamlit.app/)]
+
 # 🇹🇷 TR MasterPlan: Altyapı Karar Destek Sistemi
 
 Bu proje, Gazi Üniversitesi BMT-317 Algoritmalar dersi kapsamında geliştirilmiştir. Türkiye'nin sismik ve coğrafi gerçeklerine uygun, maliyet ve güvenliği optimize eden bir altyapı planlama simülasyonudur.
